@@ -1,17 +1,1 @@
-{
-    "name": "PMOD_Shield",
-    "provides": "PMOD_Shield.h",
-    "license": "LICENSE.md",
-    "readme": "README.md",
-    "description": "Macros for easier use of the PMOD shield",
-    "category": "System",
-    "subcategory": "Support",
-    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
-    "version": "1.0.0",
-    "family": "pic32",
-    "core": "chipkit",
-    "install": {
-        "keywords.txt": "/",
-        "PMOD_Shield.h": "/"
-    }
-}
+{"name":"PMOD_Shield","provides":"PMOD_Shield.h","license":"LICENSE.md","readme":"README.md","description":"Macros for easier use of the PMOD shield","category":"System","subcategory":"Support","maintainer":"Matt Jenkins <matt@majenko.co.uk>","version":"1.0.1","family":"pic32","core":"chipkit","install":{"keywords.txt":"\/","library.properties":"\/","src":"\/"}}
